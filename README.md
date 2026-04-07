@@ -21,7 +21,7 @@ A sleek, responsive React application built with **Vite** and **Tailwind CSS v4*
 
 ### 1. Clone the repository
 ```
-git clone [https://github.com/your-username/movie-finder.git](https://github.com/your-username/movie-finder.git)
+git clone https://github.com/ericlamkf/MovieFinder.git
 cd movie-finder
 ```
 ### 2. Install dependencies
